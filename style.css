@@ -1,0 +1,15 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+}
+
+.input {
+  position: fixed;
+  left: 43%;
+  border-radius: 5px;
+  border-color: brown;
+  height: 20px;
+  margin-bottom: 400px;
+}

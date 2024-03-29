@@ -1,0 +1,16 @@
+body {
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  display: flex;
+}
+
+.input {
+  border-color: brown;
+  border-radius: 5px;
+  height: 20px;
+  margin-bottom: 400px;
+  position: fixed;
+  left: 43%;
+}
+/*# sourceMappingURL=index.3a01df49.css.map */

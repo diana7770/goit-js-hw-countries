@@ -1,0 +1,24 @@
+{
+  "name": "goit-js-hw-countries",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --public-url /goit-js-hw-countries",
+    "pre-start": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diana7770/goit-js-hw-countries.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diana7770/goit-js-hw-countries/issues"
+  },
+  "homepage": "https://github.com/diana7770/goit-js-hw-countries#readme",
+  "dependencies": {
+    "parcel": "^2.12.0"
+  }
+}
